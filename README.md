@@ -1,2 +1,4 @@
 # http://lswanderleygit.github.io/Projeto_01
-Projeto_01 curso webmaster
+
+
+Projeto landing page curso webmaster, treinando html e css.
